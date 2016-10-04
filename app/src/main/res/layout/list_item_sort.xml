@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:autoText="false"
+    android:checkMark="@mipmap/ic_do_sort"
+    android:gravity="left"
+    android:paddingBottom="15dp"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp"
+    android:paddingTop="15dp"
+    android:text="Pilihan"
+    android:textColor="@color/colorPrimaryText"
+    android:textSize="18sp" />

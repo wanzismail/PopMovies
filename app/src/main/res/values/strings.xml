@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+
+    <string name="thumbnail_description">Thumbnail Movie</string>
+
+    <string name="copyright">© 2015 - Ridwan Ismail</string>
+
+    <string name="data_error">Failed to load data</string>
+    <string name="tidak_ada_koneksi">No network connection</string>
+</resources>

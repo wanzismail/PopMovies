@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#C00707</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorAccent">#FF00E5FF</color>
+    <color name="colorControlNormal">#FF78909C</color>
+    <color name="colorControlActivated">#FF03A9F4</color>
+    <color name="colorSwitchThumbNormal">#FF78909C</color>
+
+    <color name="colorPrimaryQuarter">#33FBACAC</color>
+    <color name="colorPrimaryHalf">#9003A9F4</color>
+    <color name="colorControlNormalHalf">#9078909C</color>
+    <color name="colorControlNormalLight">#FFFFFF</color>
+    <color name="colorControlActivatedHalf">#90F40303</color>
+    <color name="colorAccentQuarter">#33FF0000</color>
+    <color name="colorAccentHalf">#90FF0000</color>
+
+    <color name="colorNavigationBar">#000000</color>
+    <color name="colorWindowBackground">#F0F0F0</color>
+    <color name="colorWindowBackgroundCard">#FFFFFF</color>
+
+    <color name="colorPrimaryText">#545454</color>
+    <color name="colorPrimaryTextLight">#FFFFFF</color>
+    <color name="colorPrimaryTextHint">#9A9A9A</color>
+    <color name="colorSecondaryText">#727272</color>
+
+    <color name="colorDivider">#FFCECECE</color>
+</resources>
