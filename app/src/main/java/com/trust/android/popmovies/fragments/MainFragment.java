@@ -99,7 +99,7 @@ public class MainFragment extends BaseFragment implements SwipeRefreshLayout.OnR
         mSwipeRefreshLayout.setColorSchemeResources(R.color.colorPrimary);
         mSwipeRefreshLayout.setOnRefreshListener(this);
 
-        String aksi = getSharedPreferences().getString("aksi", "");
+        String aksi = getSharedPreferences().getString("aksi", "Popular Movie");
         if (aksi.equals("Popular Movie"))
             getPopular(true);
         else if (aksi.equals("Highest Rated Movies"))
